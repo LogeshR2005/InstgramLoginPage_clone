@@ -6,9 +6,10 @@ Creating a JavaFX Instagram login page clone involves replicating the look and f
 The goal of this project is to create a JavaFX application that closely resembles Instagram's login page. Users should be able to enter their username and password, click a login button, and, upon successful authentication, gain access to the main content of the application.
 
 ### Features:
-1. **Login Page UI**: Design the login page UI to closely resemble Instagram's official login page. This includes elements such as the Instagram logo, username and password text fields, a login button, and possibly other UI elements like a "Forgot Password" link.
+  1. **Login Page UI**: Design the login page UI to closely resemble Instagram's official login page. This includes elements such as the Instagram logo, username and password text 
+     fields, a login button, and possibly other UI elements like a "Forgot Password" link.
 
-2.**Responsive Design**: Ensure that the application's UI is responsive and adjusts well to different screen sizes. This ensures a consistent user experience across various devices.
+  2.**Responsive Design**: Ensure that the application's UI is responsive and adjusts well to different screen sizes. This ensures a consistent user experience across various devices.
 
 ### Technical Requirements:
  **JavaFX**: Use JavaFX for building the user interface. You can design the UI using Scene Builder or code it directly in your JavaFX application.
