@@ -1,3 +1,7 @@
+
+
+https://github.com/LogeshR2005/InstgramLoginPage_clone/assets/142524635/0aba0a93-67f3-4bf3-9949-18db16abc893
+
 # InstgramLoginPage_clone
 
 Creating a JavaFX Instagram login page clone involves replicating the look and feel of Instagram's login page using JavaFX for the user interface and possibly integrating backend logic for authentication. Here's a detailed project description:
@@ -29,6 +33,10 @@ The goal of this project is to create a JavaFX application that closely resemble
 **Controller Class**: Handles UI events and contains logic for user authentication.
 
 **CSS Stylesheets**: Contains styles for the UI components to achieve the Instagram-like appearance.
+
+
+https://github.com/LogeshR2005/InstgramLoginPage_clone/assets/142524635/8e4125f1-d86f-4d24-9b72-20b00557362c
+
 
 **Resource Files**: Any additional resources such as images or icons used in the application.
 
